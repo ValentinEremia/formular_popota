@@ -85094,7 +85094,7 @@ s=this.a
 r=t.p
 s=A.a([B.a2W,A.en(s.c,1,p)],r)
 B.b.a0(s,this.a.e)
-q=A.c4(A.a([new A.bh(new A.af(42,14,0,5),A.jk(s,B.P,B.fp,B.G),p)],r),B.P,B.iQ,B.G)
+q=A.c4(A.a([new A.bh(new A.af(42,5,0,5),A.jk(s,B.P,B.fp,B.G),p)],r),B.P,B.iQ,B.G)
 if(this.e){s=$.ae().SV(20,20,p)
 q=A.ayY(B.aA,A.ayz(A.fN(p,q,B.C,B.A,p,p,p,p,p,p,p,p,p),s),B.bS)}return q}}
 A.akr.prototype={
@@ -94208,7 +94208,7 @@ B.a2O=new A.E(48,48)
 B.a2P=new A.E(496,160)
 B.a2Q=new A.E(496,346)
 B.a2S=new A.E(80,47.5)
-B.a2T=new A.E(1/0,59)
+B.a2T=new A.E(1/0,56)
 B.a2U=new A.E(77.37,37.9)
 B.as=new A.dt(0,0,null,null)
 B.a2W=new A.dt(0,null,null,null)
